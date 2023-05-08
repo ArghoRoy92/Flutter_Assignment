@@ -21,7 +21,7 @@ studentGrade(String name, int Score) {
 } //studetGrate function ends
 
 main() {
-  String studentName = "Anupam Roy Argh";
+  String studentName = "Anupam Roy Argho";
   int testScore = 59;
   String grade = studentGrade(studentName, testScore);
   print("$studentName's grade: $grade");
