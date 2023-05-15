@@ -52,9 +52,9 @@ void main() {
 
   print("The Specification of total ${Car.numberOfCars} cars are:");
   print(
-      " ${car1.getBrand()} ${car1.getModel()} ${car1.getYear()} ${car1.getMilesDriven()} miles driven, ${car1.getAge()} years");
+      " ${car1.getBrand()} ${car1.getModel()} ${car1.getYear()} ${car1.getMilesDriven()} miles, ${car1.getAge()} years");
   print(
-      " ${car2.getBrand()} ${car2.getModel()} ${car2.getYear()} ${car2.getMilesDriven()} miles driven, ${car2.getAge()} years");
+      " ${car2.getBrand()} ${car2.getModel()} ${car2.getYear()} ${car2.getMilesDriven()} miles, ${car2.getAge()} years");
   print(
-      " ${car3.getBrand()} ${car3.getModel()} ${car3.getYear()} ${car3.getMilesDriven()} miles driven, ${car3.getAge()} years");
+      " ${car3.getBrand()} ${car3.getModel()} ${car3.getYear()} ${car3.getMilesDriven()} miles, ${car3.getAge()} years");
 }
